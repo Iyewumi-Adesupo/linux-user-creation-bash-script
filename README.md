@@ -1,5 +1,11 @@
 <h1 align="center" id="title">linux-user-creation-bash-script</h1>
                                                    <h1 align="center" id="title">User Management Bash Script</h1>
+
+An Ubuntu machine on AWS is launched and connected. See below:
+
+<img width="952" alt="launching an ubuntu machine ec2 instance" src="https://github.com/Iyewumi-Adesupo/linux-user-creation-bash-script/assets/135404420/665df9f1-e09b-4ddc-8b4b-46c4a5b33f8a">
+
+
 <p id="description"> This repository contains a Bash script named create_users.sh designed to automate the process of creating users and assigning them to groups on a Linux system. The script reads a text file with usernames and group names, creates users, assigns them to the appropriate groups, generates random passwords, and logs all actions.
 
 **Script Overview**
