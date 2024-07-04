@@ -46,7 +46,9 @@ The text file should contain lines formatted as user;groups, where user is the u
 
 On the terminal, cat the **userdata.txt** file consist of:
 light; sudo,dev,www-data
+
 idimma; sudo
+
 mayowa; dev,www-data
 
 <img width="946" alt="4 create userdata text for the usergroups" src="https://github.com/Iyewumi-Adesupo/linux-user-creation-bash-script/assets/135404420/612b9466-aeb0-4691-bdd2-b1057828e081">
